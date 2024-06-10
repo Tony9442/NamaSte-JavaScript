@@ -161,3 +161,16 @@ u();
 
 /*  Mutations observer. The Mutations observer continously checks if there is some mutation
  in the DOM tree or not and if there is, it can create a callback function.*/
+
+
+ //What is a promise javascript?
+ 
+ //Ans: Promise ia an object that represents an eventual completion of an asynchronous operation.
+
+
+ //Why is it good to use promise?
+ //Ans:
+
+ //With promise we have control over our code and avoid Invertion of control (lossing control over our code to another code).
+ 
+ //It helps us avoid callback hell.
